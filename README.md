@@ -1,7 +1,7 @@
 # Hilton Moreira
 ### Contato: hiltonmm@gmail.com
 
-### _FORMÇÃO ACADÊMICA_
+### _FORMAÇÃO ACADÊMICA_
 - Análise e Desenvolvimento de Sistemas (em curso)
 - Bacharel em Direito (2019)
 
