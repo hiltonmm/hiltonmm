@@ -14,7 +14,6 @@
 - 2021 - Introdução a Lei Geral de Proteção aos Dados Pessoais, Enap
 - 2011 - Desenvolvimento de Aplicações Web, Instituto Infnet-RJ
 
-### _Habilidade
 -----
 
 ### _Vivencia Profissional_
