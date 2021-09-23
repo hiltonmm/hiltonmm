@@ -15,3 +15,4 @@
 - 2011 - Desenvolvimento de Aplicações Web, Instituto Infnet-RJ
 
 ### _Vivencia Profissional_
+Desde 2006, estou envolvido com a administração de servidores linux, atuando como único responsável pela gestão e funcionamento de toda a infraestrutura de um dos maiores cartórios da região metropolitana do estado do Rio de Janeiro, além disso, ao longo dos anos, tive a oportunidade de desenvolver diversas microaplicações para solucionar problemas pontuais da gestão de um cartório. Atualmente, estou desenvolvendo, paralelamente, uma aplicação web de gestão de pedidos de certidões. 
