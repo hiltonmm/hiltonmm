@@ -13,3 +13,5 @@
 - 2021 - Linux: A introdução ao sistema operacional, DIO
 - 2021 - Introdução a Lei Geral de Proteção aos Dados Pessoais, Enap
 - 2011 - Desenvolvimento de Aplicações Web, Instituto Infnet-RJ
+
+### _Vivencia Profissional_
