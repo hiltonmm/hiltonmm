@@ -6,7 +6,7 @@
 - Bacharel em Direito (2019)
 
 ### _Cursos Relevantes_
-- 2021 - Git e GitHub Focado em PullRequest
+- 2021 - Git e GitHub Focado em PullRequest, DIO
 - 2021 - Construindo páginas para internet com Bootstrap, DIO
 - 2021 - Trabalhando com Branches no GitHub, DIO
 - 2021 - Introdução ao Git e ao GitHub, DIO
