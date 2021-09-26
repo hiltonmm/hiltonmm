@@ -6,8 +6,8 @@
 - Bacharel em Direito (2019)
 
 ### _Cursos Relevantes_
-- 2021 - Conhecendo funções e validação de dados com PHP
-- 2021 - Formulários com condicionais e sessões com PHP
+- 2021 - Conhecendo funções e validação de dados com PHP, DIO
+- 2021 - Formulários com condicionais e sessões com PHP, DIO
 - 2021 - Introdução ao PHP, DIO
 - 2021 - Git e GitHub Focado em PullRequest, DIO
 - 2021 - Construindo páginas para internet com Bootstrap, DIO
