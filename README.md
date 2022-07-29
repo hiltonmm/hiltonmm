@@ -30,6 +30,7 @@
     - JQUERY
     - JSON
     - XML
+    - C#
 * BANCO DE DADOS
     - ORACLE MYSQL
     - MARIADB
